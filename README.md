@@ -5,7 +5,7 @@ A collection of presentations and documents we prepared for the NASWA 2019 confe
 
 ## Talk: New Standards in Modular, Agile, Customer-Centric Design: Practical Tips to Effectively Lead Digital Transformations and Modernize Legacy Systems
 
-- [Main presentation]() (🔒(Google Drive)[https://docs.google.com/presentation/d/1zkOMO0CWRzmLyr5nwqMWOvLyya0m0JQsQ7uMHpJOtu4/edit#slide=id.g6080df8e9b_0_576])
+- [Main presentation]() (🔒[Google Drive](https://docs.google.com/presentation/d/1zkOMO0CWRzmLyr5nwqMWOvLyya0m0JQsQ7uMHpJOtu4/edit#slide=id.g6080df8e9b_0_576))
 - [QASP handout](https://github.com/18F/mesc2019/blob/master/workshop-legacy-modernization/qasp-handout.pdf) (🔒[Google Drive](https://docs.google.com/document/d/1kTSEHCe9oeon8zbERDCSlfNNVGrnWmy4FCXJuP7NBdM/edit))
 - [QASP presentation](https://github.com/18F/mesc2019/blob/master/workshop-legacy-modernization/qasp-presentation.pptx) (🔒[Google Drive](https://docs.google.com/presentation/d/1ogoDFPQdxqTi7-BV0ZjjCUtvufcesNeX_UJ4cIMnIqk/edit))
 - [De-risking custom technology projects: A Handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
