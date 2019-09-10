@@ -1,7 +1,7 @@
 # NASWA2019
-Resources for the NASWA 2019 Attendees
+Resources for NASWA 2019 Attendees
 
-A collection of presentations and documents we prepared for the MESC conference, gathered in one place for easy access.
+A collection of presentations and documents we prepared for the NASWA 2019 conference, gathered in one place for easy access.
 
 ## Talk: New Standards in Modular, Agile, Customer-Centric Design: Practical Tips to Effectively Lead Digital Transformations and Modernize Legacy Systems
 
