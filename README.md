@@ -13,7 +13,7 @@ A collection of presentations and documents we prepared for the NASWA 2019 confe
 
 ## Resources for Reducing Risk and Building Maintainable Systems with Encapsulation
 
-- **Presentation:** [Powerpoint](talk-encasement/MESC-Encasement.pptx) | [PDF w speaker notes](talk-encasement/MESC-Encasement-w-notes.pdf) | 🔒[Google Drive](https://docs.google.com/presentation/d/1QQsFkHxRG4n8tAJlhIwreM3_Vy9rpv4lz-1txw-wy8I/edit#slide=id.p)
+- **Presentation:** [Powerpoint](https://github.com/18F/mesc2019/blob/master/talk-encasement/MESC-Encasement.pptx) | [PDF w speaker notes](https://github.com/18F/mesc2019/blob/master/talk-encasement/MESC-Encasement-w-notes.pdf) | 🔒[Google Drive](https://docs.google.com/presentation/d/1QQsFkHxRG4n8tAJlhIwreM3_Vy9rpv4lz-1txw-wy8I/edit#slide=id.p)
 - [Eligibility APIs Initiative](https://github.com/18F/eligibility-rules-service/blob/master/README.md)
 - [State budgeting handbook](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 - Other resources on Encasement Strategy:
