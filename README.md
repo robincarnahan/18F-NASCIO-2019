@@ -10,6 +10,7 @@ A collection of presentations and documents we prepared for the NASWA 2019 confe
 - [QASP presentation](https://github.com/18F/mesc2019/blob/master/workshop-legacy-modernization/qasp-presentation.pptx?raw=true) (🔒[Google Drive](https://docs.google.com/presentation/d/1ogoDFPQdxqTi7-BV0ZjjCUtvufcesNeX_UJ4cIMnIqk/edit))
 - [De-risking custom technology projects: A Handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 - Code for America's Research on [Bringing Safety Net Services online](https://www.codeforamerica.org/programs/integrated-benefits/bringing-social-safety-net-benefits-online)
+- [Phoenix Project](https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 
 ## Resources for Reducing Risk and Building Maintainable Systems with Encapsulation
 
