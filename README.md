@@ -11,6 +11,8 @@ A collection of presentations and documents we prepared for the NASCIO 2019 conf
 - [QASP presentation](https://github.com/18F/mesc2019/blob/master/workshop-legacy-modernization/qasp-presentation.pptx?raw=true) (🔒[Google Drive](https://docs.google.com/presentation/d/1ogoDFPQdxqTi7-BV0ZjjCUtvufcesNeX_UJ4cIMnIqk/edit))
 - [De-risking custom technology projects: A Handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 - Code for America's Research on [Bringing Safety Net Services online](https://www.codeforamerica.org/programs/integrated-benefits/bringing-social-safety-net-benefits-online)
+- Texas Annual Report: Overview of Major Information Resources Projects Reported to the Quality Assurance Team, Dec. 2018
+(https://qat.dir.texas.gov/2018QATAnnualReport.pdf)
 
 ## Resources for Reducing Risk and Building Maintainable Systems with Encapsulation
 
