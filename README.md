@@ -1,16 +1,16 @@
 # NASWA2019
-Resources for NASWA 2019 Attendees
+Resources for NASCIO 2019 Attendees
 
-A collection of presentations and documents we prepared for the NASWA 2019 conference, gathered in one place for easy access.
+A collection of presentations and documents we prepared for the NASCIO 2019 conference, gathered in one place for easy access.
 
-## Talk: New Standards in Modular, Agile, Customer-Centric Design: Practical Tips to Effectively Lead Digital Transformations and Modernize Legacy Systems
+## Talk: (Non)Risky Business: Leveragaing 18F's State Software Budgeting Handbook
 
-- [Main presentation]() (🔒[Google Drive](https://docs.google.com/presentation/d/1zkOMO0CWRzmLyr5nwqMWOvLyya0m0JQsQ7uMHpJOtu4/edit#slide=id.g6080df8e9b_0_576))
+- [Main presentation]() (🔒[Google Drive
+(https://docs.google.com/presentation/d/1iQUnzBvCW7xJz8J60VwUOpE4OPmsbnM9yz_Ez7tVPoQ/edit#slide=id.g6080df8e9b_0_576))
 - [QASP handout](https://github.com/18F/mesc2019/blob/master/workshop-legacy-modernization/qasp-handout.pdf?raw=true) (🔒[Google Drive](https://docs.google.com/document/d/1kTSEHCe9oeon8zbERDCSlfNNVGrnWmy4FCXJuP7NBdM/edit))
 - [QASP presentation](https://github.com/18F/mesc2019/blob/master/workshop-legacy-modernization/qasp-presentation.pptx?raw=true) (🔒[Google Drive](https://docs.google.com/presentation/d/1ogoDFPQdxqTi7-BV0ZjjCUtvufcesNeX_UJ4cIMnIqk/edit))
 - [De-risking custom technology projects: A Handbook for state grantee budgeting and oversight](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 - Code for America's Research on [Bringing Safety Net Services online](https://www.codeforamerica.org/programs/integrated-benefits/bringing-social-safety-net-benefits-online)
-- [Phoenix Project](https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 
 ## Resources for Reducing Risk and Building Maintainable Systems with Encapsulation
 
